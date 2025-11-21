@@ -3,5 +3,5 @@
 * ✉️  Work contact me at tuelied.work@gmail.com
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuelied&bg_color=0a0f1c&color=0047ab&line=003399&point=3366cc&area=true&area_color=3366cc&title_color=0047ab&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wachipr&bg_color=0a0f1c&color=0047ab&line=003399&point=3366cc&area=true&area_color=3366cc&title_color=0047ab&hide_border=true" />
 </p>
